@@ -81,7 +81,9 @@ amehta@twilio.com's Account|AC83233efslkxclksdalkfsdafa665|Lookups|26816|lookups
 >     - [Usage Record Accumulation Tiers](https://www.twilio.com/docs/api/rest/usage-records#list-subresources)
 
 
->Note
+----------
+
+#### <i class="icon-file"></i>Note 
 >- This currently retrieves all time usages under the account/subaccount.Can be easily tweaked to do on daily,monthly,date range 
 >- TBD : Take as option the accumulation level ( daily/monthly/date range etc) 
 
