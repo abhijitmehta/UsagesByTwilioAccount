@@ -25,20 +25,19 @@ export TWILIO_ACCOUNT_SID=ACcsfdsarereadsf2423eds
 export TWILIO_AUTH_TOKEN=avdsaf98324jlekrwr
 ```
 
+----------
 
 #### <i class="icon-refresh"></i> Usage 
 
-```
-node getUsageBySubAccount.js "S"  <-- Summary View
-node getUsageBySubAccount.js "D"  <-- Detailed View
-
-```
 
 View                                          | Usage
 --------------------------------------------  | -----------------------------------
 Summary by Subaccount                         | node getUsageBySubAccount.js "S"
 Details summarised by Subaccount/UsageType    | node getUsageBySubAccount.js "D"
 
+
+
+----------
 
 #### <i class="icon-file"></i> Sample Output - Summary by Account/Subaccount
 
