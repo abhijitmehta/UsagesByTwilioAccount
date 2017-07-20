@@ -1,4 +1,4 @@
-/ Download the Node helper library from twilio.com/docs/node/install
+// Download the Node helper library from twilio.com/docs/node/install
 //This snipped is based on the latest node library for twilio, so install the next gen version .
 //For Example : You can do this by doing  “  sudo npm install twilio@3.0.0-rc.15 -g —save "
 
