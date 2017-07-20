@@ -72,3 +72,16 @@ notifyDemo|AC11yyyyyyyyyyyyyyy|Trunking Origination Local Calls|0|minutes|0|usd
 notifyDemo|AC11yyyyyyyyyyyyyyy|Programmable Chat Users|0|use|0|usd
 amehta@twilio.com's Account|AC83233efslkxclksdalkfsdafa665|Lookups|26816|lookups|25.21|usd
 ```
+
+----------
+#### <i class="icon-folder-open"></i> Reference
+> - [Twilio REST API: Accounts](https://www.twilio.com/docs/api/rest/account)
+> - [Twilio REST API: Subaccounts](https://www.twilio.com/docs/api/rest/subaccounts)
+> - [Twilio REST API: Usage Records](https://www.twilio.com/docs/api/rest/usage-records)
+>     - [Usage Record Accumulation Tiers](https://www.twilio.com/docs/api/rest/usage-records#list-subresources)
+
+
+>Note
+>- This currently retrieves all time usages under the account/subaccount.Can be easily tweaked to do on daily,monthly,date range 
+>- TBD : Take as option the accumulation level ( daily/monthly/date range etc) 
+
